@@ -1,0 +1,144 @@
+* {
+font-family:century gothic;
+background:#FDFDFC;
+width:720px;
+margin:10px auto;
+}
+
+header,section,footer,nav{
+display:block;
+}
+
+h1{
+background:#F5F5F1;
+padding:5px 5px;
+color:black;
+font-family: Franklin Gothic Medium;
+font-size:140%
+}
+
+h3{
+padding:1px 1px 1px 1px;
+color:black;
+}
+
+.autor{
+background:yellow;
+font-size:40%;
+padding-left:1%;
+padding-top:0%
+}
+
+}
+section{
+font-size:100%;
+border:1px solid black;
+margin-right:5px;
+padding-right: 5px;
+padding-left:5px;
+padding-top:15px;
+padding-bottom:2px;
+background:none;
+}
+.agrupar1{
+text-align:justify;
+margin:25px 5px;
+}
+
+h2{
+padding-left:2%;
+margin:0px 0px;
+font-size:150%
+}
+
+
+h3{
+padding-left:2%;
+margin:0px 0px;
+font-size:180%
+}
+
+figure {
+background: #F5F5F1;
+}
+
+figcaption {
+  background:#F5F5F1;
+  color: grey;
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+}
+
+i {
+background:#F5F5F1;
+color: grey;
+opacity:0.7;
+font-size:15px;
+}
+
+img {
+background:#F5F5F1;
+}
+
+hr {
+    width: 400px;
+    margin: 7px;
+    align: left;
+}
+
+.bullets{
+margin:10px auto;
+width:670px;
+background:lightgoldenrodyellow
+}
+
+#more1 {display: none;background:palegoldenrod}
+#more2 {display: none;background:lightgoldenrodyellow}
+#more21 {display: none;background:lightgoldenrodyellow}
+#more23 {display: none;background:lightgoldenrodyellow}
+#more25 {display: none;background:lightgoldenrodyellow}
+
+button{
+background:grey;
+color:white;
+}
+
+
+
+footer{
+font-size:75%;
+text-align:center
+}
+
+.alert alert-success{
+background:red;
+}
+
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 1px;
+  background:#F5F5F1;
+  color:#FFF9C4;
+  background-color:#F5F5F1;
+}
+
+/* Create two equal columns that sits next to each other */
+.column {
+  flex: 50%;
+  padding: 0 1px;
+  background:#F5F5F1;
+  color:#FFF9C4;
+  background-color:#F5F5F1;
+}
+
+.column img {
+  margin-top: 1px;
+  vertical-align: middle;
+  background:#F5F5F1;
+  color:#FFF9C4;
+  background-color:#F5F5F1;
+}
+
